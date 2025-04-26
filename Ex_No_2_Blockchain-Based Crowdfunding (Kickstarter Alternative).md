@@ -1,4 +1,7 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+# Name:MAGESH V
+# Reg no: 212222040092
+# Date : 26-04-2025
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
@@ -69,6 +72,7 @@ If the goal is met, the creator can withdraw funds.
 
 If the goal is not met, contributors can claim a refund.
 
+![Screenshot 2025-04-26 091457](https://github.com/user-attachments/assets/3fe85601-b439-4bb4-be19-42a1d6d28a92)
 
 # High-Level Overview:
 Teaches decentralized fundraising.
@@ -77,3 +81,5 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus, a decentralized crowdfunding platform has been created and successfully executed.
+
